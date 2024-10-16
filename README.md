@@ -1,9 +1,11 @@
 # Bike Buyers Analysis
 This repository contains an analysis of a dataset related to bike purchases, aiming to understand the factors influencing a customer's decision to buy a bike.
 
-## Dataset Overview
-The dataset comprises demographic and lifestyle information of individuals, with details such as:
+[Dashboard1.pdf](https://github.com/user-attachments/files/17396068/Dashboard1.pdf)
 
+## Dataset Overview
+The dataset comprises demographic and lifestyle information of individuals,
+ with details such as:
 - Marital Status
 - Gender
 - Income
@@ -23,7 +25,6 @@ The dataset comprises demographic and lifestyle information of individuals, with
 - dashboard: An empty sheet intended for visual representation of key insights.
 ### Analysis
 The analysis focuses on:
-
 - Identifying demographic patterns in bike purchases.
 - Exploring how factors like income, education, and family structure influence the likelihood of buying a bike.
 - Visualizing the average income of buyers versus non-buyers using a pivot table.
