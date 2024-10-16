@@ -1,6 +1,7 @@
 # Bike Buyers Analysis
 This repository contains an analysis of a dataset related to bike purchases, aiming to understand the factors influencing a customer's decision to buy a bike.
 
+![dashboard1](https://github.com/user-attachments/assets/42d584a2-2935-4082-b672-2ad9c3d7a55d)
 
 
 ## Dataset Overview
